@@ -1,0 +1,96 @@
+{
+	"date": "2024-09-22",
+	"produits": [
+		{
+			"code": "cafe",
+			"description": "café",
+			"PU": 1.2,
+			"ageMin": 0,
+			"categorie": "boisson"
+		},
+		{
+			"code": "choco",
+			"description": "chocolat chaud",
+			"PU": 1.3,
+			"ageMin": 0,
+			"categorie": "boisson"
+		},
+		{
+			"code": "bieNA",
+			"description": "bière sans alcool",
+			"PU": 1.5,
+			"ageMin": 0,
+			"categorie": "boisson"
+		},
+		{
+			"code": "biere",
+			"description": "bière légère",
+			"PU": 1.8,
+			"ageMin": 16,
+			"categorie": "boisson"
+		},
+		{
+			"code": "bieSp",
+			"description": "bière spéciale",
+			"PU": 2.9,
+			"ageMin": 16,
+			"categorie": "boisson"
+		},
+		{
+			"code": "cocaR",
+			"description": "coca",
+			"PU": 1.4,
+			"ageMin": 0,
+			"categorie": "boisson"
+		},
+		{
+			"code": "cocaZ",
+			"description": "coca zéro",
+			"PU": 1.4,
+			"ageMin": 0,
+			"categorie": "boisson"
+		},
+		{
+			"code": "limo",
+			"description": "limonade",
+			"PU": 1.4,
+			"ageMin": 0,
+			"categorie": "boisson"
+		},
+		{
+			"code": "eauG",
+			"description": "eau pétillante",
+			"PU": 1.4,
+			"ageMin": 0,
+			"categorie": "boisson"
+		},
+		{
+			"code": "eauPl",
+			"description": "eau plate",
+			"PU": 1.2,
+			"ageMin": 0,
+			"categorie": "boisson"
+		},
+		{
+			"code": "chSel",
+			"description": "chips au sel",
+			"PU": 1.1,
+			"ageMin": 0,
+			"categorie": "snack"
+		},
+		{
+			"code": "chPvr",
+			"description": "chips au poivre",
+			"PU": 1.1,
+			"ageMin": 0,
+			"categorie": "snack"
+		},
+		{
+			"code": "gauf",
+			"description": "gaufre",
+			"PU": 1.3,
+			"ageMin": 0,
+			"categorie": "snack"
+		}
+	]
+}
